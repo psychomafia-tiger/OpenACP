@@ -42,11 +42,11 @@ Your Codebase
 
 | Without OpenACP | With OpenACP |
 |----------------|-------------|
-| *"Its usage is currently focused on its dedicated terminal REPL and specific IDE integrations"* — [source](https://github.com/anthropics/claude-code/issues/6686) | Control from Telegram, Discord, or Slack — any device, anywhere |
-| *"Codex Desktop App only works with local projects. It does not support development on remote hosts"* — [source](https://github.com/openai/codex/issues/10450) | Full remote development support — run agents on your server, manage from your phone |
-| *"There's no way to trigger Claude Code sessions from external issue trackers"* — [source](https://github.com/anthropics/claude-code/issues/12925) | REST API for CI/CD integration and external triggers |
-| *"Being able to use a proper mobile app UI would be much better than having to access sessions through ssh + tmux"* — [source](https://github.com/openai/codex/issues/9224) | Native Telegram/Discord UI — no SSH, no terminal on mobile |
-| *"Cline is really burning up OpenRouter tokens and my wallet"* — [source](https://github.com/cline/cline/issues/2350) | Built-in usage tracking and monthly budget limits per session |
+| *"Its usage is currently focused on its dedicated terminal REPL and specific IDE integrations"* | Control from Telegram, Discord, or Slack — any device, anywhere |
+| *"Codex Desktop App only works with local projects. It does not support development on remote hosts"* | Full remote development support — run agents on your server, manage from your phone |
+| *"There's no way to trigger Claude Code sessions from external issue trackers"* | REST API for CI/CD integration and external triggers |
+| *"Being able to use a proper mobile app UI would be much better than having to access sessions through ssh + tmux"* | Native Telegram/Discord UI — no SSH, no terminal on mobile |
+| *"Cline is really burning up OpenRouter tokens and my wallet"* | Built-in usage tracking and monthly budget limits per session |
 
 ## Use Cases
 

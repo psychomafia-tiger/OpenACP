@@ -112,7 +112,6 @@ See [`packages/plugin-sdk/`](packages/plugin-sdk/) for the full API and [`src/cl
 - **ESM modules** — use `.js` extensions in all imports (even for `.ts` source files)
 - **Zod** for config validation and schema definitions
 - **Pino** for structured logging — no `console.log` in library code
-- Keep files under 200 lines; split into focused modules when needed
 - Use kebab-case for file names
 - **Versioning format**: `YYYY.MDD.<patch>` — e.g. `2026.327.1` is the first patch on March 27 2026
 
